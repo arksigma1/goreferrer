@@ -2183,6 +2183,7 @@ const defaultRules = `
                 "news.google.com.hk",
                 "news.google.com.jm",
                 "news.google.com.kh",
+		"pro-okis.ru",
                 "news.google.com.kh",
                 "news.google.com.kw",
                 "news.google.com.lb",
