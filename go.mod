@@ -1,4 +1,4 @@
-module github.com/Shopify/goreferrer
+module github.com/arksigma1/goreferrer
 
 go 1.17
 
